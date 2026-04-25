@@ -1,1 +1,1 @@
-# Perosnal-retreats-info
+# Perosnal-retreats-info lessons learned
