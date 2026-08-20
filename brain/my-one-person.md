@@ -1,23 +1,21 @@
-# My One Person — Dog Mom Lifestyles
+# Offer — Dog Mom Lifestyles
 
-## Who she is
-Julie. A woman whose dog is her whole world — not a pet, a companion. She's on top of her dog's health, their routines, their moods. She's either divorced, or married with grown kids who've moved out — either way, the house has room in it that used to be filled by other people, and her dog fills part of that now.
+## The products
+- **Ultimate Box** — monthly subscription box, treats + toy + fun accessory or wellness item for the dog, plus a self-care item for the human.
+- **VIP Box** — the upgraded tier. Higher-value version of the same idea.
+- **T-Shirt Club** — $22.99/mo, ~30 members. Standalone add-on, cute/trendy tee each month.
 
-She rarely buys things for herself just for herself. She'll spend on her dog without hesitation, but her own self-care tends to get skipped — unless it's wrapped up in something she gets to share with her dog. That's the permission structure: she says yes when it's "for both of us," and no when it's just "for me."
+## The transformation
+Not "gets treats and toys." Julie gets a monthly ritual — a fixed point in her month she can count on, where she gets to watch her dog light up over something new, and gets a small surprise for herself bundled in. She never knows exactly what's coming, so opening the box is its own small event. The word for it, in her own language: pure joy.
 
-Real proof this instinct is real, not a guess: Amanda Farrar, an actual customer (a teacher): "a dog mom is no easy feat when it comes to self-care and this box has made loving myself and my pupper easier." Juli Farruggia, another actual customer, after losing one of her two dogs: "I was looking for 'special' things to do for me and earthside pup" — a different kind of loss than Julie's, but the same instinct: grief or an emptier house redirecting all her attention and care toward the dog she still has.
+## The path to purchase
+Julie sees a Facebook ad, gets emotionally hit or catches the box image, and the reaction is immediate — she buys fast. About 83% of people who convert do so right away, not after a long consideration window. A first-box discount or free gift is typically offered to remove the last bit of friction at that moment.
 
-## The moment and trigger
-Julie isn't searching for a solution to a problem. She's scrolling Facebook — that's genuinely where most customers come from — and an ad stops her. Sometimes it's the image of the box itself, sometimes it hits her emotionally first. The reaction is immediate and specific: "Ooh, what's this? What can we do together?" It's excitement, not need. She's not thinking "I need self-care." She's thinking about her dog first, and herself only because it's attached to her dog.
+The discount/free gift is automatic on the page — no code needed. The ad sends her straight to the homepage, which currently doubles as the landing page (no dedicated landing page exists yet).
 
-## What she's feeling in that moment
-Curiosity and a small spark of excitement — the feeling of being invited into something, not sold to. Underneath it, though not always conscious: permission. A reason to get something for herself that doesn't feel selfish, because it's framed as being for her and her dog together.
+## What happens to people who don't buy
+They go onto the email list and SMS list for nurture. (Note: this is a named workflow, not yet detailed here — worth a closer look later at what that nurture sequence actually says and how well it's converting, since that's a lever separate from ad spend.)
 
-## Her exact words
-What Julie would type or say to herself, unpolished (Jocelyn's own instinct on this, worth validating further as real material comes in): "happy dog mom," "box for mom and dog life after a grueling day." Real customers echo this same instinct without prompting — words that show up again and again in actual reviews, unprompted: "feeds my soul," "my happy place," "care package" (never "subscription box" — that word doesn't come up in how she describes it to herself), "for both of us," "things I would love but wouldn't buy for myself," "not just another subscription box," "she actually cares."
-
-## The one transformation
-Permission to receive, disguised as something for her dog. Julie stops treating her own comfort and joy as optional, because it arrives bundled with something for the one relationship she never deprioritizes.
-
-## Her life after, in granular detail
-Julie's day is still full — dogs fed, walked, a career or her own business or retirement filling the hours, house to run. But there's now a monthly moment that's just for the two of them: a box arrives, she doesn't rush opening it, she lets her dog sniff everything first. One real customer, Richard, described this after-state exactly: "My day to day is jam packed busy, words can't explain how amazing it is to step in OR out of the shower and ALREADY have the perfect goodies... I need to pamper, soothe myself into blissful relaxation." Julie isn't a different person — her calendar looks the same — but there's a ritual in it now that didn't exist before, and it's one she never would have carved out for herself alone.
+## What happens after someone buys
+- Extra products, T-shirts, and sweatshirts are available as one-off add-on purchases.
+- **Gap, flagged honestly:** There's supposed to be an upgrade path from Ultimate → VIP, but it isn't actually being run right now. This is a real opportunity sitting unused, not a working system — don't treat it as already in place when planning strategy or content.
