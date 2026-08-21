@@ -34,4 +34,9 @@ Whenever the business changes (a new offer, a pivot, a new result, an email that
 - Nurture sequence content (email + SMS for non-buyers) exists but hasn't been reviewed in detail for what it actually says or how well it converts.
 - The homepage is built to function as the landing page (confirmed by Jocelyn), so that is not a gap. Still worth reviewing against the fundamentals in a future session (does it lead with Julie's trigger and the ritual framing, or with product features) since that has not been checked yet.
 - RESOLVED: sales page conversion rate is now known, 1.2% (see offer.md). No longer an open gap.
-- Churn: 10% (confirmed). LTV: Jocelyn said "15%" but LTV is not normally a percentage (it's usually months or a dollar figure) — asked for clarification, not yet resolved. Do not use "15%" as an LTV figure until clarified.
+- RESOLVED: Churn is 10%/month. LTV is roughly $200 raw, $220 to $230 AOV-adjusted (see business.md). The earlier "15%" was a unit mix-up, not a real figure.
+- RESOLVED: the Breezeway "Orders" count means NEW customers, not renewals. This confirmed that acquisition is running below the churn replacement rate.
+- RESOLVED: the email list is built from the site popup, which is fed by ads. Email is downstream of paid traffic, not an independent channel.
+
+## The single most important fact in this brain right now
+New-customer acquisition (5 to 12/month) is running well below the churn replacement rate (~26/month at 265 subscribers and 10% churn), so the base shrinks every month. **Break-even is roughly 26 new customers per month.** Any plan, campaign, or piece of content should be judged against whether it moves that number. Do not plan growth on top of a shrinking base without naming the leak first, and do not present the $70,000/month goal as on-track (see the pressure-test in business.md).
