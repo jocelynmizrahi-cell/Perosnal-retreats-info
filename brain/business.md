@@ -40,22 +40,34 @@ Subscribers peaked in May at 350, then declined to 265 by August — a 24% drop 
 
 ## What's capping the business right now
 Two real constraints, not one:
-1. **Traffic** — not enough new people finding the site/offer.
+1. **Traffic** — not enough new people finding the site/offer. Quantified: new-customer acquisition (5 to 12/month) is running well below the churn replacement rate (~26/month), so the subscriber base shrinks every month. See the Breezeway findings below.
 2. **Jocelyn's own time/capacity** — she is stretched thin doing too much herself and needs help.
 
 ## Acquisition
-- Facebook ads bring in new customers.
+- Facebook ads bring in new customers, and are also the source of the email list (see the funnel note below).
 - Klaviyo runs email/retention.
-- Email list size: ~5,500 people.
+- **Email list size: ~5,500 people. The list is built from the website popup, and popup traffic comes from ads.** Email is therefore downstream of paid traffic, not a parallel channel.
 - **Klaviyo email open rate: ~43–44%** — well above the ~15–25% ecommerce average, meaning the list is healthy and engaged. Verified Klaviyo access is connected (account: Dog Mom Lifestyles, dogmomlifestyles.com). Click rate not yet broken out separately — logged as a smaller remaining gap, worth pulling campaign-by-campaign in a future `/review` session.
 - **Last few real customers came through both paths**: Facebook ads directly, and email (people who saw an ad and converted later via Klaviyo). Not one clean channel — both are live and working. This matters for how positioning gets tested: paid reach plus a warm, high-engagement list are the two real levers already proven to convert, which is good news against the Q4 goal below.
 
 ### Breezeway dashboard findings (real data, checked across four periods: Mar–Apr, May–Jun, Jul, and Jan–Feb 2026)
-- **Klaviyo is the dominant last-click attribution channel in every single period shown**, consistently ahead of Facebook Ads and Google Ads combined. This may mean email is doing more of the actual closing than ad spend alone suggests. Worth weighing against the "Facebook ads bring in new customers" framing above; possibly both true (Facebook drives awareness, Klaviyo drives the actual last click) rather than contradictory.
-- **Order counts on this dashboard are very low in recent months**: 12 (Mar–Apr), 5 (May–Jun), 7 (Jul). **Open question, not yet resolved: does "Orders" here mean new/first-time customer orders specifically, or does it include recurring subscription renewal charges too?** This matters a lot for interpretation and has been asked but not yet answered.
+- **Klaviyo is the dominant last-click attribution channel in every single period shown**, consistently ahead of Facebook Ads and Google Ads combined. **Resolved by Jocelyn: this is not a separate channel. The email list is built from the website popup, and the popup traffic comes from ads.** So the real funnel is: Facebook ads drive traffic, the popup captures the people who don't buy on the spot, Klaviyo closes them later and takes the last-click credit. Facebook is doing the sourcing that Klaviyo gets attributed for.
+- **Strategic consequence of the above: ad spend and email are not independent levers.** Cutting ad spend starves the email list at the same time, because ads are what fill it. The May–June drop to $348 in ad spend did not just lose immediate conversions, it stopped refilling the list that does the closing, which compounds the decline instead of merely pausing it. Any plan that treats "push email harder" as an alternative to ad spend is wrong on this business; email volume is downstream of ad volume.
+- **New-customer counts are critically low**: 12 (Mar–Apr), 5 (May–Jun), 7 (Jul). **Confirmed by Jocelyn: this dashboard counts NEW customers, not subscription renewals.**
+- **The single most important number in this brain: acquisition is running far below the replacement rate.** At roughly 265 subscribers and 10% monthly churn, about 26 subscribers are lost per month. Bringing in 5 to 12 new customers means a net loss of roughly 15 to 21 subscribers every month. This is not slow growth, it is a shrinking base, and it explains the 350 (May) to 265 (Aug) decline precisely. **Break-even is roughly 26 new customers per month. Any growth plan has to clear that number before a single subscriber of actual growth is added.**
 - **Ad spend collapsed in the same window**: $2,702.70 (Mar–Apr) → $348.34 (May–Jun) → $1,352.49 (Jul). This lines up with and quantifies the "Jocelyn got sick, marketing paused" story above.
 - **ROAS in this window is extremely volatile** (10.19, 43.79, 1.59 across the three periods) and based on very small order counts, so treat as directional/noisy, not a stable number to plan against.
 - 1-day purchase rate stays consistently high across every period shown (88 to 93%), reinforcing the existing "83% buy right away" figure in `offer.md`.
 
 ## Where she's trying to go
-Goal: reach $70,000/month by the end of the year, riding the holiday season. Against current actuals (~$16,100/month average, and a declining subscriber trend since May), this is roughly a 4x jump in about 4 months. The good news: both real levers are already proven to work (Facebook ads convert, and the email list is unusually healthy at a 43% open rate), so this isn't starting from zero. But it still will not happen passively — it needs either meaningfully more ad spend/reach, a real conversion push on the 5,500-person list, or both, sustained through the whole holiday window. **This should be pressure-tested with a real plan once the brain is fuller, not treated as a given.**
+Goal: reach $70,000/month by the end of the year, riding the holiday season. Against current actuals (~$16,100/month average) this is roughly a 4x jump in about 4 months.
+
+**Pressure-tested against the real acquisition numbers, this goal is not currently achievable on the present trajectory, and the brain should say so plainly rather than plan around it.** At roughly $52 to $58 blended revenue per subscriber, $70,000/month needs somewhere near 1,200 to 1,300 active subscribers. The base is 265 and shrinking by 15 to 21 per month. Closing that gap by December would require adding roughly 950 net subscribers in four months, which means clearing the ~26/month churn replacement AND adding ~240 net new per month on top, against a current run rate of 5 to 12 new customers per month. That is a 20x+ change in acquisition, not a push.
+
+What IS realistic and worth planning first, in order:
+1. **Get back above the churn replacement line (~26 new customers/month).** Until acquisition clears that, every other effort is being poured into a leaking bucket. This is the whole ballgame right now.
+2. **Restart consistent ad spend**, since ads feed both direct conversions and the popup that builds the email list. The proven levers were switched off, not broken.
+3. **Improve the 1.2% conversion rate**, which multiplies the value of every visitor without buying more traffic.
+4. **Turn on the Ultimate → VIP upgrade path**, which raises revenue per existing subscriber and does not depend on acquisition at all.
+
+A more honest Q4 target would be rebuilding to the May peak (350 subscribers) and establishing consistent positive net growth, then setting a bigger number from a base that is actually growing. **Do not tell Jocelyn the $70k goal is on track. Tell her what it would actually take, and what the better near-term goal is.**
