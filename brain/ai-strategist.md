@@ -29,7 +29,7 @@ Whenever the business changes (a new offer, a pivot, a new result, an email that
 
 ## Known gaps still logged as open (from business.md, offer.md)
 - Apr 2026 subscriber count in the source spreadsheet is internally inconsistent (~127 vs. 234 by Stripe breakdown) — not corrected, just flagged.
-- Klaviyo click rate not yet broken out separately from open rate.
+- RESOLVED: Klaviyo click rate pulled directly from the account. 0.32% against a 2 to 3% benchmark, with a 43% open rate. See the full breakdown in business.md. This is now a named priority, not a gap.
 - Ultimate → VIP upgrade path is a named intention, not an active, running system.
 - Nurture sequence content (email + SMS for non-buyers) exists but hasn't been reviewed in detail for what it actually says or how well it converts.
 - The homepage is built to function as the landing page (confirmed by Jocelyn), so that is not a gap. Still worth reviewing against the fundamentals in a future session (does it lead with Julie's trigger and the ritual framing, or with product features) since that has not been checked yet.
