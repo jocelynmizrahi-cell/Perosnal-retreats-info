@@ -32,4 +32,6 @@ Whenever the business changes (a new offer, a pivot, a new result, an email that
 - Klaviyo click rate not yet broken out separately from open rate.
 - Ultimate → VIP upgrade path is a named intention, not an active, running system.
 - Nurture sequence content (email + SMS for non-buyers) exists but hasn't been reviewed in detail for what it actually says or how well it converts.
-- No dedicated landing page yet — Facebook ads currently send traffic straight to the homepage.
+- The homepage is built to function as the landing page (confirmed by Jocelyn), so that is not a gap. Still worth reviewing against the fundamentals in a future session (does it lead with Julie's trigger and the ritual framing, or with product features) since that has not been checked yet.
+- RESOLVED: sales page conversion rate is now known, 1.2% (see offer.md). No longer an open gap.
+- Churn: 10% (confirmed). LTV: Jocelyn said "15%" but LTV is not normally a percentage (it's usually months or a dollar figure) — asked for clarification, not yet resolved. Do not use "15%" as an LTV figure until clarified.
